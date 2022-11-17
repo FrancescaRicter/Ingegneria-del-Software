@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/francescaricter/IdeaProjects/Eriantys/ing-sw-2022-sulpizi-ricter-vucaj/src/main/java/it/polimi/ingsw/Model</OriginalElement>
+  <nodes>
+    <node x="1681.0" y="2434.0">it.polimi.ingsw.Model.TowerColor</node>
+    <node x="2025.2666666666667" y="1803.0">it.polimi.ingsw.Model.SpecialCharacterCard</node>
+    <node x="2534.0" y="0.0">it.polimi.ingsw.Model.Board</node>
+    <node x="596.0" y="2434.0">it.polimi.ingsw.Model.Team</node>
+    <node x="710.5" y="1682.0">it.polimi.ingsw.Model.SimpleCharacterCard</node>
+    <node x="1416.0" y="2434.0">it.polimi.ingsw.Model.Character</node>
+    <node x="1918.2666666666667" y="1380.0">it.polimi.ingsw.Model.ExpertGame</node>
+    <node x="891.0" y="2434.0">it.polimi.ingsw.Model.Disk</node>
+    <node x="1206.725" y="1402.5">it.polimi.ingsw.Model.CharacterCard</node>
+    <node x="1955.0" y="2434.0">it.polimi.ingsw.Model.Cloud</node>
+    <node x="0.0" y="2434.0">it.polimi.ingsw.Model.Island</node>
+    <node x="1121.0" y="2434.0">it.polimi.ingsw.Model.Card</node>
+    <node x="2228.0" y="2434.0">it.polimi.ingsw.Model.Professor</node>
+    <node x="256.0" y="2259.0">it.polimi.ingsw.Model.CharacterCard7</node>
+    <node x="1701.0" y="2248.0">it.polimi.ingsw.Model.CharacterCard8</node>
+    <node x="1189.0" y="2259.0">it.polimi.ingsw.Model.CharacterCard1</node>
+    <node x="2162.0" y="2248.0">it.polimi.ingsw.Model.CharacterCard2</node>
+    <node x="1445.0" y="2259.0">it.polimi.ingsw.Model.CharacterCard3</node>
+    <node x="2416.0" y="2434.0">it.polimi.ingsw.Model.Student</node>
+    <node x="318.0" y="2434.0">it.polimi.ingsw.Model.Player</node>
+    <node x="0.0" y="2259.0">it.polimi.ingsw.Model.CharacterCard12</node>
+    <node x="1927.7666666666667" y="0.0">it.polimi.ingsw.Model.Game</node>
+    <node x="846.0" y="2259.0">it.polimi.ingsw.Model.CharacterCard10</node>
+    <node x="551.0" y="2248.0">it.polimi.ingsw.Model.CharacterCard11</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="it.polimi.ingsw.Model.SpecialCharacterCard" target="it.polimi.ingsw.Model.CharacterCard" relationship="REALIZATION">
+      <point x="-59.0" y="-137.0" />
+      <point x="2084.2666666666664" y="1657.0" />
+      <point x="1324.725" y="1657.0" />
+      <point x="0.0" y="103.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.ExpertGame" target="it.polimi.ingsw.Model.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-126.0" />
+      <point x="0.0" y="665.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard2" target="it.polimi.ingsw.Model.SpecialCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-70.5" />
+      <point x="2325.5" y="2223.0" />
+      <point x="2143.2666666666664" y="2223.0" />
+      <point x="0.0" y="137.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard7" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-59.5" />
+      <point x="393.5" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.SpecialCharacterCard" target="it.polimi.ingsw.Model.ExpertGame" relationship="GENERALIZATION">
+      <point x="59.0" y="-137.0" />
+      <point x="2202.2666666666664" y="1657.0" />
+      <point x="2148.2666666666664" y="1657.0" />
+      <point x="0.0" y="126.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard10" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-59.5" />
+      <point x="1007.5" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard1" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-59.5" />
+      <point x="1307.0" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.SimpleCharacterCard" target="it.polimi.ingsw.Model.CharacterCard" relationship="REALIZATION">
+      <point x="0.0" y="-258.0" />
+      <point x="848.0" y="1657.0" />
+      <point x="1324.725" y="1657.0" />
+      <point x="0.0" y="103.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard8" target="it.polimi.ingsw.Model.SpecialCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-70.5" />
+      <point x="1921.5" y="2223.0" />
+      <point x="2143.2666666666664" y="2223.0" />
+      <point x="0.0" y="137.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard12" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-59.5" />
+      <point x="118.0" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard3" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-59.5" />
+      <point x="1563.0" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Model.CharacterCard11" target="it.polimi.ingsw.Model.SimpleCharacterCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-70.5" />
+      <point x="688.5" y="2223.0" />
+      <point x="848.0" y="2223.0" />
+      <point x="0.0" y="258.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.33106657122405153" showDependencies="false" x="1429.0" y="1387.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>it.polimi.ingsw.Connection</OriginalElement>
+  <nodes>
+    <node x="510.0" y="0.0">it.polimi.ingsw.Connection.Client</node>
+    <node x="0.0" y="0.0">it.polimi.ingsw.Connection.MessageType</node>
+    <node x="308.0" y="0.0">it.polimi.ingsw.Connection.Server</node>
+    <node x="6.0" y="852.0">it.polimi.ingsw.Connection.Message</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="it.polimi.ingsw.Connection.Message" target="it.polimi.ingsw.Connection.MessageType" relationship="TO_ONE">
+      <point x="-62.75" y="-71.0" />
+      <point x="68.75" y="827.0" />
+      <point x="65.75" y="827.0" />
+      <point x="-65.75" y="401.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.Connection.Message" target="it.polimi.ingsw.Connection.MessageType" relationship="DEPENDENCY">
+      <point x="62.75" y="-71.0" />
+      <point x="194.25" y="827.0" />
+      <point x="197.25" y="827.0" />
+      <point x="65.75" y="401.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9122287968441815" showDependencies="true" x="330.5" y="497.0" />
+  <SelectedNodes>
+    <node>it.polimi.ingsw.Connection.Server</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

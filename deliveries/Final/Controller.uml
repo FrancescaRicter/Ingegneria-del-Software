@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/francescaricter/IdeaProjects/Eriantys/ing-sw-2022-sulpizi-ricter-vucaj/src/main/java/it/polimi/ingsw/Controller</OriginalElement>
+  <nodes>
+    <node x="397.0" y="0.0">it.polimi.ingsw.Controller.PlayerPhase</node>
+    <node x="0.0" y="0.0">it.polimi.ingsw.Controller.Controller</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.9049019607843137" showDependencies="false" x="316.0" y="500.0" />
+  <SelectedNodes>
+    <node>it.polimi.ingsw.Controller.Controller</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

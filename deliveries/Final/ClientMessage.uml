@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>it.polimi.ingsw.Connection.Client.ClientMessage</OriginalElement>
+  <nodes>
+    <node x="591.0" y="583.0">it.polimi.ingsw.Connection.Client.ClientMessage.CharacterMessage</node>
+    <node x="0.0" y="0.0">it.polimi.ingsw.Connection.Client.ClientMessage.PlayCardMessage</node>
+    <node x="248.0" y="418.0">it.polimi.ingsw.Connection.Client.ClientMessage.MoveStudentOnDiningRoomMessage</node>
+    <node x="318.0" y="583.0">it.polimi.ingsw.Connection.Client.ClientMessage.ChooseCloudMessage</node>
+    <node x="0.0" y="583.0">it.polimi.ingsw.Connection.Client.ClientMessage.MoveMotherNatureMessage</node>
+    <node x="247.0" y="726.0">it.polimi.ingsw.Connection.Client.ClientMessage.SimpleRequest</node>
+    <node x="0.0" y="231.0">it.polimi.ingsw.Connection.Client.ClientMessage.MoveStudentOnIslandMessage</node>
+    <node x="0.0" y="726.0">it.polimi.ingsw.Connection.Client.ClientMessage.NickNameMessage</node>
+    <node x="340.0" y="231.0">it.polimi.ingsw.Connection.Client.ClientMessage.TowerColorMessage</node>
+    <node x="238.0" y="0.0">it.polimi.ingsw.Connection.Client.ClientMessage.CreateLobbyMessage</node>
+    <node x="0.0" y="418.0">it.polimi.ingsw.Connection.Client.ClientMessage.JoinLobbyMessage</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="395.5" y="389.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

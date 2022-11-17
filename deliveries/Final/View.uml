@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>it.polimi.ingsw.View</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">it.polimi.ingsw.View.GameRepresentation</node>
+    <node x="253.0" y="957.0">it.polimi.ingsw.View.GUI_package</node>
+    <node x="746.0" y="0.0">it.polimi.ingsw.View.View</node>
+    <node x="0.0" y="957.0">it.polimi.ingsw.View.Colors</node>
+    <node x="375.0" y="0.0">it.polimi.ingsw.View.ClientCLI</node>
+    <node x="746.0" y="191.0">it.polimi.ingsw.View.GUI</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="it.polimi.ingsw.View.GUI" target="it.polimi.ingsw.View.View" relationship="REALIZATION">
+      <point x="0.0" y="-236.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6105610561056105" showDependencies="false" x="565.0" y="747.5000000000001" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
